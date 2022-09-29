@@ -1,9 +1,9 @@
 body {
-  background-color: powderblue;
+  background-color: #90c6d0;
 }
 
 h1 {
-  background-color: rgb(255 165 0);
+  background-color: rgb(75, 137, 195);
   color: hsl(147deg 50% 47%);
   padding: 40px;
   text-align: center;
