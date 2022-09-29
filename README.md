@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Allen-Li-hub/Assignment-1-canadian-scientist_HTML)](https://repl.it/github/Allen-Li-hub/Assignment-1-canadian-scientist_HTML)
 
-This site can be found at: [https://Allen-Li-hub.github.io/Assignment-1-canadian-scientist](https://Allen-Li-hub.github.io/Assignment-1-canadian-scientist)
+This site can be found at: [https://Allen-Li-hub.github.io/ICS2O-Assignment1-HTML](https://Allen-Li-hub.github.io/ICS2O-Assignment1-HTML)
