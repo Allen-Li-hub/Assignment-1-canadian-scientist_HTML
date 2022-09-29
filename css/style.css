@@ -1,10 +1,26 @@
-body {
-  background-color: #90c6d0;
+.mdl-layout__header-row {
+  align-items: center;
+  justify-content: center;
 }
 
-h1 {
-  background-color: rgb(75, 137, 195);
-  color: hsl(147deg 50% 47%);
-  padding: 40px;
-  text-align: center;
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
+
+.mdl-ripple {
+  background: #000;
+  opacity: 0.001;
+}
+
+body {
+  background-color: cornflowerblue;
+}
+
+p {
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  padding-top: 5pt;
 }
