@@ -1,4 +1,4 @@
-# Assignment-1-canadian-scientist-HTML
+# ICS2O-Assignment-1-HTML
 
 [![Mr Coxall's Super Linter](https://github.com/Allen-Li-hub/Assignment-1-canadian-scientist/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Allen-Li-hub/Assignment-1-canadian-scientist/actions/)
 
